@@ -36,7 +36,7 @@ class ViewController: UIViewController {
         }
             
     }
-    
+     
     func updateViewFromModel() {
         for index in cardButtons.indices {
             let button = cardButtons[index]
